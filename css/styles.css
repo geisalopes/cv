@@ -1,0 +1,21 @@
+body {
+  font-family: 'ABeeZee';
+  background-color: #eaf6f6;
+}
+
+h1 {
+  text-shadow: 3px 3px 8px palevioletred;
+  color: #f76b8a
+}
+
+h3 {
+  color: #f76b8a
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: lightsteelblue;
+  border-width: 5px;
+  width: 5%
+}
